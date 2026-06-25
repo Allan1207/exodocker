@@ -1,4 +1,4 @@
-const body = document.getElementById("body")
+const body = document.querySelector("h1")
 
 let visible = false
 
